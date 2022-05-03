@@ -14,14 +14,14 @@ const Navbar = () => {
         <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="#">Home</a>
         </li>
-         <li class="nav-item">
-          <a class="nav-link" href="#">Products</a>
+         <li className="nav-item">
+          <a className="nav-link" href="#">Products</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">About us</a>
+        <li className="nav-item">
+          <a className="nav-link" href="#">About us</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Contact us</a>
+        <li className="nav-item">
+          <a className="nav-link" href="#">Contact us</a>
         </li>
         </ul>
             <div className="buttons">
