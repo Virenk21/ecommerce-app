@@ -1,5 +1,3 @@
-import Product from "../../component/Product";
-
 export const addCart = (product) => {
     return {
         type : "ADDITEM",
