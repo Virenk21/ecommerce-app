@@ -22,7 +22,10 @@ const Product = () => {
         const getProduct = async () =>{
                setLoading(true);
                const response = await fetch(`https://fakestoreapi.com/products/${id}`);
+               response.then(res =>{})
                setProduct(await response.json());
+
+
                setLoading(false); 
         }
             getProduct();
