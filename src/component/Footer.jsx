@@ -5,8 +5,9 @@ const Footer = () => {
   return (
     <footer>
       <p>
+        
         </p>
-      <p1> Viren Corporation © 2022 </p1>
+      <p1> Viren Corporation © 2022 <br /> All rights reserved.</p1>
       
     </footer>
   )
