@@ -1,0 +1,28 @@
+
+.content-main button {
+    background: #000;
+    color: #fff;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    outline: none;
+    border: none;
+    font-size: 1rem;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    cursor: pointer;
+    margin-top: 2.5rem;
+}
+
+@media (max-width: 768px) {
+        .content-main button {
+        font-size: 0.8rem;
+        width: 150px;
+        padding: 0.5rem 1rem;
+        margin-top: 1.5rem;
+    }
+
+}

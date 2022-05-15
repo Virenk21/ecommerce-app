@@ -1,5 +1,6 @@
 import React from "react";
-import Footer from "./Footer";
+import './homestyle.css';  
+
 
 const Home = () => {
   return (
@@ -13,7 +14,10 @@ const Home = () => {
             </h5>
             <p className="card-text lead fs-2">CHECK OUT ALL THE TRENDS</p>
           </div>
-          
+          <div className="content-main">
+          <button>Click Here<i className='fas fa-long-arrow-alt-right' ></i>
+    </button>
+    </div>
         </div>
         
       </div>
