@@ -15,7 +15,7 @@ const Home = () => {
             <p className="card-text lead fs-2">CHECK OUT ALL THE TRENDS</p>
           </div>
           <div className="content-main">
-          <button>Click Here<i className='fas fa-long-arrow-alt-right' ></i>
+          <button>CLICK ME<i className='fas fa-long-arrow-alt-right' ></i>
     </button>
     </div>
         </div>
