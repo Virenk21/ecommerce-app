@@ -12,12 +12,12 @@ const Home = () => {
             <h5 className="card-title display-3 fw-bolder mb-0">
               NEW SEASON ARRIVALS
             </h5>
-            <p className="card-text lead fs-2">CHECK OUT ALL THE TRENDS</p>
+            <p className="card-text lead fs-2">CHECK OUT ALL THE LATEST TRENDS</p>
           </div>
           <div className="content-main">
           <button>CLICK ME<i className='fas fa-long-arrow-alt-right' ></i>
     </button>
-    </div>
+        </div>
         </div>
         
       </div>
